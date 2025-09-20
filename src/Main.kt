@@ -155,5 +155,34 @@ fun main() {
 //    val isLowerCase = capital.isLowerCase()
 //    val capitalEString = small.uppercase()
 //    val capitalE = small.uppercaseChar()
-
+    //Задание 1
+//    print("Введите ваш уровень: ")
+//    val lvl = readln().toInt()
+//    if(lvl < 10) {
+//        println("\"Новичок!\" вы получаете + 10 HP.")
+//    }
+//    else if (lvl < 50) {
+//        println("\"Опытный!\" вы получаете + 30 HP.")
+//    }
+//    else {
+//        print("\"Легенда!\" вы получаете + 100 HP")
+//    }
+    //Задание 2
+//    val age = readln().toInt()
+//    if (age < 12) {
+//        println("Вы ребёнок")
+//    }
+//    else if (age <= 17) {
+//        println("Вы подросток")
+//    }
+//    else {
+//        println("Вы взрослый")
+//    }
+    //Задание 3
+//    print("Введиет число от 1 до 100: ")
+//    val num = readln().toInt()
+//    if (num in 10..50) {
+//        println("Число входит в диапазон")
+//    }
+    //Задание 4
 }
